@@ -1,0 +1,62 @@
+[jay1.csv]
+5 Peace Sign: 9.85 - 19.33
+3 Point Finger: 21.37 - 28.22
+4 Thumb UP: 29.53 - 38.04
+1 Close Fist: 39.70 - 49.35
+6 I love You: 51.13 - 59.60
+2 Open Palm: 60.62 - 70
+
+[jay2.csv]
+1 Close Fist: 8.57 - 18.78
+4 Thumb UP: 19.84 - 28.30
+3 Point Finger: 29.96 - 37.87
+5 Peace Sign: 39.78 - 49.64
+2 Open Palm: 50.75 - 57.98
+6 I love you: 59.47 - 68.78
+
+[winnie1.csv]
+6 I love you: 7.46 - 16.82
+5 Peace Sign: 18.99 - 25.75
+1 Close Fist: 27.41 - 35.87
+4 Thumb Up: 36.59 - 46.41
+2 Open Palm: 47.99 - 56.45
+3 Point Finger: 57.81 - 68.99
+
+[winnie2.csv]
+6 I love you: 8.96 - 18.90
+4 Thumb Up: 20.22 - 28.64
+5 Peace Sign: 30.17 - 39.19
+1 Close fist: 40.42 - 48.24
+3 Point Finger: 49.26 - 58.32
+2 Open Palm: 59.04 - 68.99
+
+[nani1.csv]
+3 Point Finger: 7.38 - 19.59
+6 I love you: 20.48 - 29.45
+4 Thumb Up: 30.43 - 40.08
+2 Open Palm: 41.18 - 49.05
+1 Close Fist: 50.33 - 58.70
+5 Peace Sign: 59.59 - 69.08
+
+[nani2.csv]
+2 Open Palm: 1.64 - 14.06
+1 Close Fist: 15.42 - 24.30
+6 I love you: 26.90 - 36.08
+4 Thumb Up: 36.59 - 45.52
+5 Peace Sign: 47.39 - 56.66
+
+[kayla1.csv]
+6 I love you: 5.72 - 16.06
+1 Close Fist: 17.16 - 25.62
+5 Peace Sign: 26.43 - 35.53
+2 Open Palm: 36.30 - 45.73
+3 Point Finger: 46.92 - 55.77
+4 Thumb Up: 56.36 - 67.12
+
+[kayla2.csv]
+2 Open Palm: 3.09 - 12.61
+1 Close Fist: 13.72 - 26.69
+6 I love you: 25.24 - 34.51
+3 Point Finger: 35.36 - 43.65
+4 Thumb Up: 44.50 - 53.43
+5 Peace Sign: 54.49 - 65.59
