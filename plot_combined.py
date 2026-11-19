@@ -4,8 +4,8 @@ Plot every sensor column from a combined pose CSV (from combine_poses.py)
 on one graph, in file order, ignoring the timestamps.
  
 Usage:
-    python plot_sensors.py combined/pose1_Close_Fist.csv
-    python plot_sensors.py combined/pose1_Close_Fist.csv --save fist.png
+    python plot_sensors.py train_sensor/pose1_Close_Fist.csv
+    python plot_sensors.py train_sensor/pose1_Close_Fist.csv --save fist.png
 """
  
 import argparse
