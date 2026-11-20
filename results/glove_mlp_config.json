@@ -1,0 +1,33 @@
+{
+  "sensors": [
+    "thumb",
+    "index",
+    "middle",
+    "ring",
+    "pinky"
+  ],
+  "pose_names": [
+    "Close Fist",
+    "Open Palm",
+    "Point Finger",
+    "Thumb Up",
+    "Peace Sign",
+    "I Love You"
+  ],
+  "window_ms": 100,
+  "input_mean": [
+    0.5491826105571512,
+    0.6044792525838144,
+    0.3553552737766547,
+    0.23861116179830977,
+    0.3842700383374915
+  ],
+  "input_std": [
+    0.39660801847780325,
+    0.4051364216212195,
+    0.4200966314731151,
+    0.33090507594829105,
+    0.39046367902100926
+  ],
+  "calibration": "per session: (x - p2) / (p98 - p2), clipped to 0..1"
+}

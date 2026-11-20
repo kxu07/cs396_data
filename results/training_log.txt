@@ -1,0 +1,43 @@
+Loaded 465,325 raw samples from 8 sessions, people: jay, kayla, nani, winnie
+3,889 windows of 100 ms (trimmed 0.5s off each segment edge)
+
+=== Leave-one-person-out, raw inputs ===
+held_out  windows   MLP  Random forest
+     jay      933 1.000          1.000
+   kayla     1050 0.987          0.987
+    nani      943 1.000          1.000
+  winnie      963 0.724          0.631
+
+Per-pose accuracy (MLP):
+        pose  accuracy
+  Close Fist     0.979
+   Open Palm     0.878
+Point Finger     1.000
+    Thumb Up     0.982
+  Peace Sign     1.000
+  I Love You     0.741
+
+=== Leave-one-person-out, calibrated inputs ===
+held_out  windows   MLP  Random forest
+     jay      933 1.000          1.000
+   kayla     1050 0.987          0.989
+    nani      943 1.000          0.993
+  winnie      963 0.992          0.991
+
+Per-pose accuracy (MLP):
+        pose  accuracy
+  Close Fist     0.979
+   Open Palm     1.000
+Point Finger     1.000
+    Thumb Up     1.000
+  Peace Sign     1.000
+  I Love You     0.988
+
+=== Overall accuracy (all held-out people pooled) ===
+inputs         calibrated   raw
+model                          
+MLP                 0.994 0.928
+Random forest       0.993 0.905
+
+MLP latency: 0.031 ms per prediction
+Saved demo model and config to results/, confusion matrices too.
