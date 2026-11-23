@@ -1,0 +1,23 @@
+[katie1.csv]
+2 Open Palm: 3.00 - 16.57
+5 Peace Sign: 17.29 - 22.05
+6 I love you: 24.01 - 33.15
+3 Point Finger: 34.51 - 44.25
+4 Thumb Up: 45.22 - 54.49
+1 Close Fist: 56.66 - 64.70
+
+[katie2.csv]
+2 Open Palm: 6.11 - 12.78
+1 Close Fist: 14.27 - 26.17
+5 Peace Sign: 27.45 - 36.21
+4 Thumb Up: 37.27 - 47.18
+6 I love you: 48.50 - 57.98
+3 Point Finger: 59.72 - 70
+
+[katie3.csv]
+3 Point Finger: 3.47 - 9
+6 I love you: 10.06 - 19.46
+1 Close Fist: 20.52 - 38.25
+5 Peace Sign: 39.40 - 47.86
+2 Open Palm: 48.75 - 57.94
+4 Thumb Up: 58.36 - 65.76
